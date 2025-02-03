@@ -6,7 +6,7 @@
 
 **LET-VIC** is the first LiDAR-based end-to-end tracking framework specifically designed for vehicle-infrastructure cooperative systems. This implementation provides:
 
-- 🚀 Multi-modality fusion with temporal alignment
+- 🚀 Multi-view fusion with temporal alignment
 - 📦 Compatibility with V2X-Seq-SPD dataset
 - 🛠️ Extensible architecture for cooperative perception
 
